@@ -1,0 +1,14 @@
+{
+  "name": "calculatesubtotal",
+  "version": "1.0.0",
+  "description": "Calculate the total of an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculate"
+  ],
+  "author": "rukkiecodes",
+  "license": "ISC"
+}
