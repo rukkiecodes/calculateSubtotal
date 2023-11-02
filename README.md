@@ -1,4 +1,4 @@
-Certainly! Below is a detailed Markdown documentation for the provided code that calculates the subtotal of items in an array using a data table:
+Certainly! Here's the updated Markdown documentation with a link to the GitHub project:
 
 ---
 
@@ -11,7 +11,7 @@ The `calculateSubTotal` function is a utility function designed to calculate the
 ## **Function Signature**
 
 ```javascript
-const calculateSubTotal = arr => {****
+const calculateSubTotal = arr => {
     // Function body
 }
 ```
@@ -41,7 +41,7 @@ const calculateSubTotal = arr => {****
 
 4. The function returns a promise that resolves to the `formattedResult` object.
 
-## **Usage Example******
+## **Usage Example**
 
 ```javascript
 import calculateSubTotal from './calculateSubTotal';
@@ -62,6 +62,10 @@ calculateSubTotal(items)
     });
 ```
 
+## **GitHub Repository**
+
+- The source code for this function is available in the [calculateSubtotal GitHub repository](https://github.com/rukkiecodes/calculateSubtotal).
+
 ## **Notes**
 
 - This function assumes that the input data is well-structured and that the properties `price` and `quantity` exist for each item in the array.
@@ -70,4 +74,4 @@ calculateSubTotal(items)
 
 ---
 
-This Markdown documentation provides a detailed explanation of the `calculateSubTotal` function, its parameters, and how it performs the calculation. It also includes a usage example for reference.
+This updated documentation now includes a link to the GitHub repository for reference.

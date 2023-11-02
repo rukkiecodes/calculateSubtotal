@@ -1,6 +1,6 @@
 {
   "name": "calculatesubtotal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Calculate the total of an array",
   "main": "index.js",
   "scripts": {
