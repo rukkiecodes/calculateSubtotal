@@ -1,4 +1,4 @@
-const calculateSubTotal = arr => {
+export default = arr => {
     return new Promise((resolve, reject) => {
         let total = 0
 
@@ -24,5 +24,3 @@ const calculateSubTotal = arr => {
         resolve(formattedResult)
     })
 };
-
-export default calculateSubTotal
