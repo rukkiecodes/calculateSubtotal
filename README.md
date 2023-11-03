@@ -1,7 +1,3 @@
-Certainly! Here's the updated Markdown documentation with a link to the GitHub project:
-
----
-
 # **calculateSubTotal Function Documentation**
 
 ## **Introduction**

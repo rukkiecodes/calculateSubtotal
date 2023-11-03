@@ -1,4 +1,4 @@
-export default = arr => {
+export default arr => {
     return new Promise((resolve, reject) => {
         let total = 0
 
